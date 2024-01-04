@@ -37,7 +37,7 @@ The Law Home Page project showcases the capabilities of HTML and CSS in creating
 
 
 
-Visit the Law Home Page to explore the website
+
 
 
 ### Demo :
